@@ -13,8 +13,8 @@
         <language />
         <platform>all</platform>
         <website>http://www.musicvideojukebox.net/</website>
-        <source></source>
-        <forum></forum>
+        <source>https://github.com/dersphere/plugin.video.musicvideojukebox_net</source>
+        <forum>http://forum.kodi.tv/showthread.php?tid=171026</forum>
         <email>sphere@dersphere.de</email>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <summary lang="en">Free Music Videos from www.musicvideojukebox.net</summary>
